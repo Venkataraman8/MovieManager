@@ -6,7 +6,7 @@
 5. localhost//MovieManager/
 
 ## WORKING
-1. SignUo with username password and other details
+1. SignUp with username password and other details
 2. Login with username and password
 3. Go to PopularMovies to view movie thumbnails, hover to get some basic info
 4. Click on 'View More' to see full details and trailer
